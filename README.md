@@ -116,5 +116,5 @@ The logs also indicate that an unauthorized actor was able to access protected d
 	- Isolation of uploads to a dedicated storage partition.
 	- Installation and configuration of Filebeat.
 	
-**Authors: Apil and Jatin**
+**Authors: Apil Adhakari  and Jatin Singh Tomar **
 
