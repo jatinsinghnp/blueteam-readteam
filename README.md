@@ -1,12 +1,12 @@
-# Red-vs-Blue-Team-Project
+# Red-vs-Blue-Team-Project 🔗🔗🔗🔗🔗🔗🔗🔗
 
-## Red vs Blue Team Capstone Project
+## Red vs Blue Team Capstone Project  😍😍😍😍😍😍😍😍😍😍😍
 
-- As the Red Team, the objective is to attack a vulnerable VM within the environment, ultimately gaining root access to the machine.
+- As the Red Team, the objective is to attack a vulnerable VM within the environment, ultimately gaining root access to the machine. 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 
 - As the Blue Team, the goal is to use Kibana to review logs taken during the Day 1 engagement to extract hard data and visualizations for an assessment report.
 
-This serves as an outline for the Capstone Project.
+This serves as an outline for the Capstone Project. 😁😁😁😁😁😁
 
 ### Depiction of the Topology
 
@@ -19,7 +19,7 @@ Target: 192.168.1.105
 
 ### RED TEAM
 
-The webserver has several vulnerabilities, with the top three being:
+The webserver has several vulnerabilities, with the top three being: 😎😎😎😎😎😎😎😎
 
 | Vulnerability     | Description | Impact |
 |----------|---------------------|----------------------|
@@ -116,5 +116,5 @@ The logs also indicate that an unauthorized actor was able to access protected d
 	- Isolation of uploads to a dedicated storage partition.
 	- Installation and configuration of Filebeat.
 	
-**Authors: Apil Adhakari  and Jatin Singh Tomar **
+**Authors: Apil Adhakari  and Jatin Singh Tomar **   🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏
 
