@@ -10,7 +10,7 @@ This serves as an outline for the Capstone Project. 😁😁😁😁😁😁
 
 ### Depiction of the Topology
 
-The following machines are part of the network:
+The following machines are part of the network:  ✌✌✌✌✌✌✌✌✌✌✌✌✌✌✌✌✌
 Kali: 192.168.1.90
 ELK: 192.168.1.100
 Target: 192.168.1.105
